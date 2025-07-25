@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypt", "Crypt.csproj", "{C26A00A1-B738-4D0E-85FC-9F4786AE64C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCrypt", "Test\TestCrypt\TestCrypt.csproj", "{2E12CE9F-F536-48F4-95C4-05283B0CF3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialCrypt", "SerialCrypt\SerialCrypt.csproj", "{1D52C173-B9E2-46E7-9055-E5A4BE1C9BB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26A00A1-B738-4D0E-85FC-9F4786AE64C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26A00A1-B738-4D0E-85FC-9F4786AE64C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26A00A1-B738-4D0E-85FC-9F4786AE64C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26A00A1-B738-4D0E-85FC-9F4786AE64C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E12CE9F-F536-48F4-95C4-05283B0CF3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E12CE9F-F536-48F4-95C4-05283B0CF3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E12CE9F-F536-48F4-95C4-05283B0CF3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E12CE9F-F536-48F4-95C4-05283B0CF3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D52C173-B9E2-46E7-9055-E5A4BE1C9BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D52C173-B9E2-46E7-9055-E5A4BE1C9BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D52C173-B9E2-46E7-9055-E5A4BE1C9BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D52C173-B9E2-46E7-9055-E5A4BE1C9BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EB348CE-353F-4E5D-B093-21E16EF8BB12}
+	EndGlobalSection
+EndGlobal
